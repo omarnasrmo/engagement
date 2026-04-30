@@ -57,8 +57,8 @@ button {
 </section>
 
 <section>
-  <img src="https://i.imgur.com/1.jpg">
-  <img src="https://i.imgur.com/2.jpg">
+  <IMG-20260430-WA0001.jpg">
+  <IMG-20260430-WA0002.jpg">
 </section>
 
 <section>
